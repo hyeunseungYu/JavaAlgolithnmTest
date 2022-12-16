@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class quiz4 {
+public class Quiz4 {
     public static void main(String[] args) {
         String[] participant = new String[]{"mislav", "stanko", "mislav", "ana"};
         String[] completion = new String[]{"stanko", "ana", "mislav"};
