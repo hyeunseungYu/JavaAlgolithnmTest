@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level01;
 
 public class Quiz1 {
     public static void main(String[] args) {
