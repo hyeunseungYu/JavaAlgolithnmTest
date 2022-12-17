@@ -23,9 +23,9 @@ settings.gradle
 .idea/gradle.xml
 .idea/jarRepositories.xml
 .idea/misc.xml
-build/classes/java/main/Quiz1.class
-build/classes/java/main/Quiz2.class
-build/classes/java/main/Quiz3.class
+build/classes/java/main/Programmers.Quiz1.class
+build/classes/java/main/Programmers.Quiz2.class
+build/classes/java/main/Programmers.Quiz3.class
 build/tmp/compileJava/previous-compilation-data.bin
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties

@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz10 {
     public static void main(String[] args) {
         int[] arr = {4,3,2,1};

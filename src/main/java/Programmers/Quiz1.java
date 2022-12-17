@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz1 {
     public static void main(String[] args) {
         int a = 5;

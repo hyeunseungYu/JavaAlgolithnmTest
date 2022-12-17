@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz9 {
     public static void main(String[] args) {
         long n = 3;

@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz11 {
     public static void main(String[] args) {
         long num = 626331;

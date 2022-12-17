@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz7 {
     public static void main(String[] args) {
         long n = 12345;

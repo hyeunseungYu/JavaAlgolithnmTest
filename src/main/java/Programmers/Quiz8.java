@@ -1,3 +1,5 @@
+package Programmers;
+
 public class Quiz8 {
     public static void main(String[] args) {
         long n = 118372;
