@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class Quiz13_memoryError3 {
+public class Quiz13 {
     public static void main(String[] args) {
         int n = 125;
         int answer = 0;
