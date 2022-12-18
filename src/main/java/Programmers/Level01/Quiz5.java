@@ -15,7 +15,7 @@ public class Quiz5 {
         }
         System.out.println(answer);
 
-
+//
 //        int index = 0;
 //
 //        for (int i = 0; i < answerArr.length; i++){
@@ -23,6 +23,7 @@ public class Quiz5 {
 //                answer += " ";
 //                index = 0;
 //            }
+//
 //            if (i%2 ==0){
 //                answer += answerArr[i].toUpperCase();
 //                index++;
@@ -31,5 +32,7 @@ public class Quiz5 {
 //            }
 //        }
 //        System.out.println(answer);
+
+
     }
 }
