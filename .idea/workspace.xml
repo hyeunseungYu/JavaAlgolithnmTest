@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz23_failed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz23_프로그래머스Lv1시저암호.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grammerStudy/singletoneExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/grammerStudy/singletoneExample01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz31_오답.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz31_효율성실패.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz32_아직푸는중.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/MockExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/MockExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/presentationQuiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/presentationQuiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/presentationQuiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sparta/presentationQuiz03_모범답안.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,9 +29,70 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/EasyVer/EasyQuiz9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/EasyVer/EasyQuiz9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz10_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz10_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz12.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz13_memoryError2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz14.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz15.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz16.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz17.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz18.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz19.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz20.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz21.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz22.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz23_failed.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz23_failed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz23_프로그래머스Lv1시저암호.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz23_프로그래머스Lv1시저암호.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz24.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/Level01/Quiz9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Programmers/화이팅.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Programmers/화이팅.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EasyVer/EasyQuiz9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easyVer/EasyQuiz9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz10_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz13_memoryError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz13_memoryError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz13_memoryError2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz13_memoryError2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz23_failed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz23_failed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz23_프로그래머스Lv1시저암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz23_프로그래머스Lv1시저암호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/Level01/Quiz9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level01/Quiz9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/화이팅.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/화이팅.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +135,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "azul-16",
-    "last_opened_file_path": "G:/_coding/_java/algolithmTest"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/_coding/_java/algolithmTest&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sparta" />
+      <recent name="programmers.Level01" />
       <recent name="" />
     </key>
   </component>
