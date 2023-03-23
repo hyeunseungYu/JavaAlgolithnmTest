@@ -1,31 +1,44 @@
 package programmers.greedy;
 
-import java.util.ArrayList;
-import java.util.List;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Quiz01 {
     public static void main(String[] args) {
         int n = 5;
-        int[] lost = {2, 4};
-        int[] reserve = {1, 3, 5};
+        int[] lost = {2,4};
+        int[] reserve = {1,2,3,4,5};
 
-        //일단 answer arr 크기는 n의 크기만큼
-        //reserve의 요소를 돌면서 +-1만큼의 값이 lost에 있는지 찾음
-        //int answer에 그 값을 더하고 reserve의 크기를 더함
+        int answer = n - lost.length;
 
-        List<Integer> answerArr = new ArrayList<>();
+        Arrays.sort(lost);
+        Arrays.sort(reserve);
 
+        //여분이 있는 학생이 도난당하면 lost, reserve에서 제거해야함
         for (int i = 0; i < lost.length; i++) {
-            System.out.println("지금 lost = " +lost[i] );
             for (int j = 0; j < reserve.length; j++) {
-                System.out.println("지금 reserve = " + reserve[j]);
-                if (lost[i] - 1 == reserve[j] || lost[i] + 1 == reserve[j]) {
-
+                if (lost[i] == reserve[j]) {
+                    answer++;
+                    lost[i] = -1;
+                    reserve[j] = -1;
                 }
             }
         }
 
-        System.out.println(answerArr);
+        
+        for (int i = 0; i < lost.length; i++) {
+            for (int j = 0; j < reserve.length; j++) {
+                if (reserve[j] == lost[i] - 1 || reserve[j] == lost[i] + 1) {
+                    answer++;
+                    reserve[j] = -1;
+                    break;
+                }
 
+            }
+        }
+
+        System.out.println(answer);
     }
 }
