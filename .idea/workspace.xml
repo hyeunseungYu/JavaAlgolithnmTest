@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/sort/Quiz01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/greedy/Quiz01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programmers/greedy/Quiz01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/greedy/Quiz01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/greedy/Quiz01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/sort/Quiz01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/sort/Quiz01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,8 @@
       <workItem from="1677856664546" duration="3645000" />
       <workItem from="1678192525925" duration="5007000" />
       <workItem from="1679407826985" duration="1000" />
-      <workItem from="1679579266637" duration="2507000" />
+      <workItem from="1679579266637" duration="3106000" />
+      <workItem from="1679921562721" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="[fix]conflict수정">
       <created>1671201768274</created>

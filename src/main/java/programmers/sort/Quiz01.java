@@ -20,7 +20,6 @@ public class Quiz01 {
         for (String s : parse) {
             answer += s;
         }
-
         //앞이 0이면 그냥 0이니까
         if (parse.get(0).equals("0")) {
             answer = "0";
