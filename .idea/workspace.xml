@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/sort/Quiz01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/sort/Quiz01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/sort/Quiz01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programmers/sort/Quiz01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,68 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager" selected="애플리케이션.Quiz04">
+    <configuration name="Quiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Quiz01" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Quiz02" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Quiz03" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Quiz04" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Quiz04" />
+        <item itemvalue="애플리케이션.Quiz03" />
+        <item itemvalue="애플리케이션.Quiz02" />
+        <item itemvalue="애플리케이션.Quiz01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -103,6 +165,7 @@
       <workItem from="1679407826985" duration="1000" />
       <workItem from="1679579266637" duration="3106000" />
       <workItem from="1679921562721" duration="202000" />
+      <workItem from="1680850056555" duration="4713000" />
     </task>
     <task id="LOCAL-00001" summary="[fix]conflict수정">
       <created>1671201768274</created>
