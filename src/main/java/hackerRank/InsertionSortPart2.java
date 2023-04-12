@@ -3,7 +3,7 @@ package hackerRank;
 import java.util.Arrays;
 import java.util.List;
 
-public class Quiz08 {
+public class InsertionSortPart2 {
     public static void main(String[] args) {
         int n = 7;
         List<Integer> arr = Arrays.asList(3, 4, 7, 5, 6, 2, 1 );

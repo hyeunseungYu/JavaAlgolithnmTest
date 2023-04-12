@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/EliminateSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/EliminateSubstringRe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/ErrorDigitRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/LongestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/MinimumTreePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cremaTest/StringChains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/CorrectnessAndTheLoopInvariant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,13 +83,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StringChains">
-    <configuration name="EliminateSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cremaTest.EliminateSubstring" />
+  <component name="RunManager" selected="애플리케이션.CorrectnessAndTheLoopInvariant">
+    <configuration name="CorrectnessAndTheLoopInvariant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.CorrectnessAndTheLoopInvariant" />
       <module name="test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cremaTest.*" />
+          <option name="PATTERN" value="hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CorrectnessAndTheLoopInvariant" />
         <item itemvalue="애플리케이션.StringChains" />
         <item itemvalue="애플리케이션.LongestSubArray" />
         <item itemvalue="애플리케이션.ErrorDigitRange" />
         <item itemvalue="애플리케이션.EliminateSubstringRe" />
-        <item itemvalue="애플리케이션.EliminateSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +183,7 @@
       <workItem from="1680850056555" duration="12596000" />
       <workItem from="1681129352514" duration="5053000" />
       <workItem from="1681177837320" duration="4005000" />
-      <workItem from="1681187697278" duration="11674000" />
+      <workItem from="1681187697278" duration="14515000" />
     </task>
     <task id="LOCAL-00001" summary="[fix]conflict수정">
       <created>1671201768274</created>
