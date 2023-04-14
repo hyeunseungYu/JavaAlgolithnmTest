@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/RunningTimeOfAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/QuickSort1Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/hash/Quiz03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hackerRank/RunningTimeOfAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hackerRank/RunningTimeOfAlgorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/hash/Quiz02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/programmers/hash/Quiz02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerRank/RunningTimeOfAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerRank/RunningTimeOfAlgorithms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.RunningTimeOfAlgorithms">
+  <component name="RunManager" selected="애플리케이션.QuickSort1Partition">
     <configuration name="CorrectnessAndTheLoopInvariant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerRank.CorrectnessAndTheLoopInvariant" />
       <module name="test.main" />
@@ -97,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorDigitRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cremaTest.ErrorDigitRange" />
+    <configuration name="QuickSort1Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.QuickSort1Partition" />
       <module name="test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cremaTest.*" />
+          <option name="PATTERN" value="hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cremaTest.LongestSubArray" />
+    <configuration name="Quiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.hash.Quiz02" />
       <module name="test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cremaTest.*" />
+          <option name="PATTERN" value="programmers.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.hash.Quiz03" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,26 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringChains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cremaTest.StringChains" />
-      <module name="test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cremaTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.QuickSort1Partition" />
+        <item itemvalue="애플리케이션.Quiz02" />
+        <item itemvalue="애플리케이션.Quiz03" />
         <item itemvalue="애플리케이션.RunningTimeOfAlgorithms" />
         <item itemvalue="애플리케이션.CorrectnessAndTheLoopInvariant" />
-        <item itemvalue="애플리케이션.StringChains" />
-        <item itemvalue="애플리케이션.LongestSubArray" />
-        <item itemvalue="애플리케이션.ErrorDigitRange" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +188,8 @@
       <workItem from="1681129352514" duration="5053000" />
       <workItem from="1681177837320" duration="4005000" />
       <workItem from="1681187697278" duration="15580000" />
-      <workItem from="1681363738679" duration="1276000" />
+      <workItem from="1681363738679" duration="10807000" />
+      <workItem from="1681446336726" duration="1895000" />
     </task>
     <task id="LOCAL-00001" summary="[fix]conflict수정">
       <created>1671201768274</created>

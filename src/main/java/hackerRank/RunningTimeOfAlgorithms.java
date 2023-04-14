@@ -16,7 +16,7 @@ public class RunningTimeOfAlgorithms {
             array[i] = in.nextInt();
         }
         printArray(array);
-        sortAndCount(array);
+
 
     }
 
