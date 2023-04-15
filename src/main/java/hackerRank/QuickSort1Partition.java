@@ -15,6 +15,10 @@ public class QuickSort1Partition {
     }
 
     public static List<Integer> quickSort(List<Integer> arr) {
+        //입력된 리스트가 1보다 작으면 그 리스트를 그대로 반환
+        if (arr.size() < 2) {
+            return arr;
+        }
         int pivot = arr.get(0);
 
         List<Integer> left = new ArrayList<>();
@@ -30,10 +34,14 @@ public class QuickSort1Partition {
             }
         }
 
+        //나누어진 서브리스트를 재귀 정렬
+        List<Integer> sortedLeft = quickSort(left);
+        List<Integer> sortedRight = quickSort(right);
+
         List<Integer> answer = new ArrayList<>();
-        answer.addAll(left);
+        answer.addAll(sortedLeft);
         answer.addAll(equal);
-        answer.addAll(right);
+        answer.addAll(sortedRight);
 
         return answer;
 
