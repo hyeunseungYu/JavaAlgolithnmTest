@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef7517d-b323-43ff-a638-2169c8895db6" name="변경" comment="[fix]conflict수정">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/CountingSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/hash/Quiz05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/CountingSort2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hackerRank/QuickSort1Partition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hackerRank/QuickSort1Partition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackerRank/QuickSort1Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerRank/QuickSort1Partition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +77,29 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hackerRank" />
       <recent name="cremaTest" />
       <recent name="sparta" />
       <recent name="programmers.Level01" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CountingSort1">
+  <component name="RunManager" selected="애플리케이션.CountingSort2">
     <configuration name="CountingSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerRank.CountingSort1" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.CountingSort2" />
       <module name="test.main" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.hash.Quiz03" />
-      <module name="test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Quiz05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.hash.Quiz05" />
       <module name="test.main" />
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CountingSort2" />
         <item itemvalue="애플리케이션.CountingSort1" />
         <item itemvalue="애플리케이션.Quiz05" />
         <item itemvalue="애플리케이션.QuickSort1Partition" />
         <item itemvalue="애플리케이션.Quiz02" />
-        <item itemvalue="애플리케이션.Quiz03" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +188,8 @@
       <workItem from="1681363738679" duration="10807000" />
       <workItem from="1681446336726" duration="13403000" />
       <workItem from="1681472915756" duration="4475000" />
-      <workItem from="1681566733477" duration="919000" />
+      <workItem from="1681566733477" duration="2303000" />
+      <workItem from="1681654640426" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="[fix]conflict수정">
       <created>1671201768274</created>
